@@ -1,4 +1,4 @@
-### Kon'nichiwa 👋
+### Kon'nichiwa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 
 - 🌱 I’m currently learning React.js
@@ -7,3 +7,5 @@
 - 📫 How to reach me: [My Portfolio](https://israelmitolu.netlify.app)
 - 😄 Pronouns: ...  He/Him
 - ⚡ Fun fact: ... I play the guitar semi-professionally 
+
+![Profile views](https://gpvc.arturio.dev/israelmitolu)
