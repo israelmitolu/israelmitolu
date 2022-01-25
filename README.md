@@ -33,7 +33,8 @@ Analytical and detail-oriented Front End Developer adept at contributing to a hi
   </a>
 </div>
 
-![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1871?logoColor=white%26project=%26recentMS=0%26showProject=false)
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 ![Profile views](https://gpvc.arturio.dev/israelmitolu)
