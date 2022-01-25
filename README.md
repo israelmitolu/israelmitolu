@@ -33,8 +33,9 @@ Analytical and detail-oriented Front End Developer adept at contributing to a hi
   </a>
 </div>
 
-<!--START_SECTION:waka-->
 
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 
 ![Profile views](https://gpvc.arturio.dev/israelmitolu)
