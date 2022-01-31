@@ -23,7 +23,11 @@ Analytical and detail-oriented Front End Developer adept at contributing to a hi
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelmitolu&count_private=true&theme=vue&line_height=55">
 </p> -->
 
+<!--START_SECTION:waka-->
+<img width ="50%" src="https://wakatime.com/share/@64e8aaa6-d4cf-4f99-9573-2b6433ea7792/95f55acc-4296-4c5c-b052-57c7e8d0dee8.svg">
+<!--END_SECTION:waka-->
 <div>
+  
   <a href="/" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelmitolu&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
   </a>
@@ -31,12 +35,11 @@ Analytical and detail-oriented Front End Developer adept at contributing to a hi
   <a href="/" align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=israelmitolu&count_private=true&show_icons=true&icon_color=222&title_color=0366d6&text_color=586069&bg_color=fff&hide=issues&hide_border=true&include_all_commits=true" />
   </a>
+  
 </div>
 
 
-<!--START_SECTION:waka-->
-<img width ="50%" src="https://wakatime.com/share/@64e8aaa6-d4cf-4f99-9573-2b6433ea7792/95f55acc-4296-4c5c-b052-57c7e8d0dee8.svg">
-<!--END_SECTION:waka-->
+
 
 
 ![Profile views](https://gpvc.arturio.dev/israelmitolu)
