@@ -4,7 +4,7 @@ Analytical and detail-oriented Front End Developer adept at contributing to a hi
 
 ⚡️ **What I do**
 - 👨🏽‍💻 Frontend Developer 
-- ✍🏾 I write occasionally on [Hashnode](https://israelmitolu.hashnode.dev/) 
+- ✍🏾 I write occasionally on [Hashnode](https://israelmitolu.hashnode.dev/) and [DEV](https://dev.to/israelmitolu)
 
 
 
