@@ -24,7 +24,7 @@ I'm an analytical and detail-oriented Front End Developer adept at contributing 
 </p> -->
 
 <!--START_SECTION:waka-->
-<img width ="50%" src="https://wakatime.com/share/@64e8aaa6-d4cf-4f99-9573-2b6433ea7792/95f55acc-4296-4c5c-b052-57c7e8d0dee8.svg">
+
 <!--END_SECTION:waka-->
 <div>
   
@@ -42,4 +42,5 @@ I'm an analytical and detail-oriented Front End Developer adept at contributing 
 
 
 
-![Profile views](https://gpvc.arturio.dev/israelmitolu)
+<!-- ![Profile views](https://gpvc.arturio.dev/israelmitolu)
+ -->
