@@ -1,6 +1,6 @@
 ### Kon'nichiwa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-Analytical and detail-oriented Front End Developer adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction. Proven experience developing consumer-focused websites using HTML, CSS, PHP and JavaScript, and relevant technologies.
+I'm an analytical and detail-oriented Front End Developer adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction. Proven experience developing consumer-focused websites using HTML, CSS and JavaScript, and relevant technologies.
 
 ⚡️ **What I do**
 - 👨🏽‍💻 Frontend Developer 
