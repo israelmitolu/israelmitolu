@@ -40,7 +40,4 @@ I'm an analytical and detail-oriented Front End Developer adept at contributing 
 
 
 
-
-
-<!-- ![Profile views](https://gpvc.arturio.dev/israelmitolu)
- -->
+![Profile views](https://gpvc.arturio.dev/israelmitolu)
