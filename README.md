@@ -24,8 +24,8 @@ I'm an analytical and detail-oriented Front End Developer adept at contributing 
 </p> -->
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
+
 <div>
   
   <a href="/" align="left">
