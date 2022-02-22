@@ -45,6 +45,9 @@ I curate web experiences using HTML, CSS, Javascript, React JS and SASS.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=israelmitolu&" alt="israelmitolu" /></p>
 
+[![israelmitolu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=israelmitolu)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### My Blogs
 <p>
 <a href="https://israelmitolu.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a> 
@@ -52,7 +55,7 @@ I curate web experiences using HTML, CSS, Javascript, React JS and SASS.
 <a href="https://dev.to/israelmitolu"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a> 
 </p>
 
-#### Latest Blog Posts 
+#### Latest Blog Posts 📘
 <!-- BLOG-POST-LIST:START -->
 - [How to Easily Host a Website for Free Using Netlify](https://dev.to/israelmitolu/how-to-easily-host-a-website-for-free-using-netlify-2ioi)
 - [Using Custom Cursors with Javascript for a Better User Experience](https://dev.to/israelmitolu/using-custom-cursors-with-javascript-for-a-better-user-experience-1n0b)
