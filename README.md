@@ -1,30 +1,29 @@
-<h1 align="center">Hi 👋, I'm Israel Mitolu</h1>
-<h3 align="center">A passionate Frontend developer from Nigeria 🇳🇬</h3>
+<h1 align="center">Konnichiwa, I'm Israel Mitolu 🚀</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=israelmitolu&label=Profile%20views&color=0e75b6&style=flat" alt="israelmitolu" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=israelmitolu&label=Profile%20views&color=0e75b6&style=flat" alt="israelmitolu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/israelmitolu" target="blank"><img src="https://img.shields.io/twitter/follow/israelmitolu?logo=twitter&style=for-the-badge" alt="israelmitolu" /></a> </p>
+
+<p>Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Israel, a Frontend Web Developer who is passionate about creating engaging UI and interactive experiences. I'm also a technical writer who writes on Frontend technologies to help other developers understand and be creative with them :) <br>
+I curate web experiences using HTML, CSS, Javascript, React JS and SASS. 
+</p>
+
+
+**Facts about me ⚡**
 
 - 🌱 I’m currently learning **React JS, Javascript**
 
 - 👯 I’m looking to collaborate on **projects, technical writing gigs**
 
-- 👨‍💻 All of my projects are available at [https://israelmitolu.netlify.app](https://israelmitolu.netlify.app)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/israelmitolu)
 
-- 📝 I regularly write articles on [https://israelmitolu.hashnode.dev](https://israelmitolu.hashnode.dev)
+- 📝 I regularly write articles on [Hashnode](https://israelmitolu.hashnode.dev)
 
 - 💬 Ask me about **Front End issues, GSAP, Technical writing**
 
-- 📫 How to reach me **israelmitolu@gmail.com**
+- 📫 You can reach me at **israelmitolu@gmail.com**, or send me a DM on [Twitter](https://twitter.com/israelmitolu)
 
 - ⚡ Fun fact **I play the guitar semi-professionally**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Easily Host a Website for Free Using Netlify](https://dev.to/israelmitolu/how-to-easily-host-a-website-for-free-using-netlify-2ioi)
-- [Using Custom Cursors with Javascript for a Better User Experience](https://dev.to/israelmitolu/using-custom-cursors-with-javascript-for-a-better-user-experience-1n0b)
-- [How to Create a Sleek Preloader Animation Using GSAP Timeline](https://dev.to/israelmitolu/how-to-create-a-sleek-preloader-animation-using-gsap-timeline-41ob)
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,3 +44,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=israelmitolu&show_icons=true&locale=en" alt="israelmitolu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=israelmitolu&" alt="israelmitolu" /></p>
+
+### My Blogs
+<p>
+<a href="https://israelmitolu.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a> 
+ &nbsp;&nbsp;
+<a href="https://dev.to/israelmitolu"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a> 
+</p>
+
+#### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="left"> <a href="https://twitter.com/israelmitolu" target="blank"><img src="https://img.shields.io/twitter/follow/israelmitolu?logo=twitter&style=for-the-badge" alt="israelmitolu" /></a> </p>
