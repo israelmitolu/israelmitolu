@@ -54,6 +54,9 @@ I curate web experiences using HTML, CSS, Javascript, React JS and SASS.
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Easily Host a Website for Free Using Netlify](https://dev.to/israelmitolu/how-to-easily-host-a-website-for-free-using-netlify-2ioi)
+- [Using Custom Cursors with Javascript for a Better User Experience](https://dev.to/israelmitolu/using-custom-cursors-with-javascript-for-a-better-user-experience-1n0b)
+- [How to Create a Sleek Preloader Animation Using GSAP Timeline](https://dev.to/israelmitolu/how-to-create-a-sleek-preloader-animation-using-gsap-timeline-41ob)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://twitter.com/israelmitolu" target="blank"><img src="https://img.shields.io/twitter/follow/israelmitolu?logo=twitter&style=for-the-badge" alt="israelmitolu" /></a> </p>
