@@ -50,6 +50,9 @@ I curate web experiences using HTML, CSS, Javascript, React JS and SASS.
 
 [![israelmitolu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=israelmitolu)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 
