@@ -48,11 +48,8 @@ I curate web experiences using HTML, CSS, Javascript, React JS and SASS.
 
 &nbsp;
 
-<!-- [![israelmitolu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=israelmitolu)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-177-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 80 Contributions in the Year 2022
