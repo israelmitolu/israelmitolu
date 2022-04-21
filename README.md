@@ -50,8 +50,6 @@ I curate web experiences using HTML, CSS, Javascript, React JS and SASS.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2055%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 130 Contributions in the Year 2022
@@ -104,7 +102,7 @@ Browser                  5 hrs 44 mins       ███████████�
 ```
 
 
- Last Updated on 20/04/2022 02:07:55 UTC
+ Last Updated on 21/04/2022 01:59:25 UTC
 <!--END_SECTION:waka-->
 
 
