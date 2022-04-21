@@ -117,10 +117,10 @@ Browser                  5 hrs 44 mins       ███████████�
 
 ### Latest Blog Posts 📘
 <!-- BLOG-POST-LIST:START -->
+- [The Beginner&#39;s Guide to Sass](https://dev.to/israelmitolu/the-beginners-guide-to-sass-344a)
 - [Writing Cleaner CSS using BEM Methodology](https://dev.to/israelmitolu/writing-cleaner-css-using-bem-methodology-4b2o)
 - [How to Easily Host a Website for Free Using Netlify](https://dev.to/israelmitolu/how-to-easily-host-a-website-for-free-using-netlify-2ioi)
 - [Using Custom Cursors with Javascript for a Better User Experience](https://dev.to/israelmitolu/using-custom-cursors-with-javascript-for-a-better-user-experience-1n0b)
-- [How to Create a Sleek Preloader Animation Using GSAP Timeline](https://dev.to/israelmitolu/how-to-create-a-sleek-preloader-animation-using-gsap-timeline-41ob)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://twitter.com/israelmitolu" target="blank"><img src="https://img.shields.io/twitter/follow/israelmitolu?logo=twitter&style=for-the-badge" alt="israelmitolu" /></a> </p>
