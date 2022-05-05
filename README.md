@@ -116,10 +116,10 @@ VS Code                  3 hrs 7 mins        ███████████�
 
 ### Latest Blog Posts 📘
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Ditch Create-React-App for Vite](https://dev.to/israelmitolu/why-you-should-ditch-create-react-app-for-vite-57kj)
 - [Writing Cleaner CSS using BEM Methodology](https://dev.to/israelmitolu/writing-cleaner-css-using-bem-methodology-4b2o)
 - [How to Easily Host a Website for Free Using Netlify](https://dev.to/israelmitolu/how-to-easily-host-a-website-for-free-using-netlify-2ioi)
 - [Using Custom Cursors with Javascript for a Better User Experience](https://dev.to/israelmitolu/using-custom-cursors-with-javascript-for-a-better-user-experience-1n0b)
-- [How to Create a Sleek Preloader Animation Using GSAP Timeline](https://dev.to/israelmitolu/how-to-create-a-sleek-preloader-animation-using-gsap-timeline-41ob)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://twitter.com/israelmitolu" target="blank"><img src="https://img.shields.io/twitter/follow/israelmitolu?logo=twitter&style=for-the-badge" alt="israelmitolu" /></a> </p>
