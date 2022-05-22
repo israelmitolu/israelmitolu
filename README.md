@@ -18,7 +18,7 @@ I curate web experiences using HTML, CSS, Javascript, React JS and SASS.
 
 - 📝 I regularly write articles on [Hashnode](https://israelmitolu.hashnode.dev)
 
-- 💬 Ask me about **Front End issues, GSAP, Technical writing**
+- 💬 Ask me about **Front End development, Technical writing, Web Animations **
 
 - 📫 You can reach me at **israelmitolu@gmail.com**, or send me a DM on [Twitter](https://twitter.com/israelmitolu)
 
