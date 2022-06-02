@@ -3,14 +3,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=israelmitolu&label=Profile%20views&color=9FACE6&style=flat" alt="israelmitolu" /> </p>
 
 
-<p>Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Israel, a Frontend Web Developer who is passionate about creating engaging UI and interactive experiences. I'm also a technical writer who writes on Frontend technologies to help other developers understand and be creative with them :) <br>
+<p>Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> I'm Israel, a Frontend Web Developer who is passionate about creating engaging UI and interactive experiences. I'm also a technical writer who writes on Frontend technologies to help other developers understand and be creative with them :) <br>
 I curate web experiences using HTML, CSS, Javascript, React JS and SASS. 
 </p>
 
 
 ### Facts about me ⚡
 
-- 🌱 I’m currently learning **React JS, Javascript**
+- 🌱 I’m currently learning **React.js, Next.js, Typescript**
 
 - 👯 I’m looking to collaborate on **projects, technical writing gigs**
 
