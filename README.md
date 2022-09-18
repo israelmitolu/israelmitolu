@@ -125,6 +125,10 @@ Last Updated on 18/09/2022 02:55:49 UTC
 ### FreeCodeCamp
 
 <!-- FCC:START -->
+- [JavaScript Geolocation API Tutorial – How to Get a User&#39;s Location in JS](https://www.freecodecamp.org/news/how-to-get-user-location-with-javascript-geolocation-api/)
+- [How to Import SVGs in a React and Vite app](https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/)
+- [Skeleton Loader Example – How to Build a Skeleton Screen with CSS for Better UX](https://www.freecodecamp.org/news/how-to-build-skeleton-screens-using-css-for-better-user-experience/)
+- [The Beginner&#39;s Guide to Sass](https://www.freecodecamp.org/news/the-beginners-guide-to-sass/)
 <!-- FCC:END -->
 
 ### DEV Community
