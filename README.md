@@ -115,11 +115,11 @@ Last Updated on 18/09/2022 02:55:49 UTC
 ### My Blog
 
 <!-- BLOG:START -->
-
-- [Learn how React Context API works by Building a Minimal Ecommerce Shopping App](https://dev.to/israelmitolu/learn-how-react-context-api-works-by-building-a-minimal-ecommerce-shopping-app-2479)
-- [Animating in React &lpar;The Many Ways!&rpar;](https://dev.to/israelmitolu/animating-in-react-the-many-ways-gm5)
-- [Why You Should Ditch Create-React-App for Vite](https://dev.to/israelmitolu/why-you-should-ditch-create-react-app-for-vite-57kj)
-- [Writing Cleaner CSS using BEM Methodology](https://dev.to/israelmitolu/writing-cleaner-css-using-bem-methodology-4b2o)
+- [Google Sheets API Tutorial: The Basics You Need to Get Going](https://israelmitolu.hashnode.dev/google-sheets-api-tutorial-the-basics-you-need-to-get-going)
+- [Learn how React Context API works by Building a Minimal Ecommerce Shopping App](https://israelmitolu.hashnode.dev/build-an-ecommerce-shopping-app-with-react-context-api)
+- [Animating in React &lpar;The Many Ways!&rpar;](https://israelmitolu.hashnode.dev/animation-libraries-for-react)
+- [Why You Should Ditch Create-React-App for Vite](https://israelmitolu.hashnode.dev/why-you-should-ditch-create-react-app-for-vite)
+- [Writing Cleaner CSS using BEM Methodology](https://israelmitolu.hashnode.dev/writing-cleaner-css-using-bem-methodology)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
