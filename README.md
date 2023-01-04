@@ -41,7 +41,7 @@ I curate web experiences using HTML, CSS, Javascript, React JS and SASS.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-741%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-741%20hrs%2041%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -55,8 +55,42 @@ I curate web experiences using HTML, CSS, Javascript, React JS and SASS.
  > 
 > 🔑 21 Private Repositories  
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 03/01/2023 01:38:31 UTC
+```text
+🌞 Morning    153 commits    ██████░░░░░░░░░░░░░░░░░░░   24.21% 
+🌆 Daytime    234 commits    █████████░░░░░░░░░░░░░░░░   37.03% 
+🌃 Evening    189 commits    ███████░░░░░░░░░░░░░░░░░░   29.91% 
+🌙 Night      56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.86%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       106 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.77% 
+Tuesday      107 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.93% 
+Wednesday    98 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.51% 
+Thursday     150 commits    ██████░░░░░░░░░░░░░░░░░░░   23.73% 
+Friday       75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.87% 
+Saturday     64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
+Sunday       32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.06%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 1 hr 9 mins         █████████████████████████   100.0%
+
+🔥 Editors: 
+VS Code                  1 hr 9 mins         █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 04/01/2023 01:40:24 UTC
 <!--END_SECTION:waka-->
 
 ## My Blogs
