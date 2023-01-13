@@ -47,7 +47,7 @@ I curate web experiences using HTML, CSS, Javascript, React JS and SASS.
 
 > 🏆 9 Contributions in the Year 2023
  > 
-> 📦 137.4 kB Used in GitHub's Storage 
+> 📦 137.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -82,15 +82,15 @@ Sunday       32 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 16 hrs 9 mins       █████████████████████████   100.0%
+Markdown                 12 hrs 39 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  16 hrs 9 mins       █████████████████████████   100.0%
+VS Code                  12 hrs 39 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 12/01/2023 01:44:11 UTC
+ Last Updated on 13/01/2023 01:46:38 UTC
 <!--END_SECTION:waka-->
 
 ## My Blogs
