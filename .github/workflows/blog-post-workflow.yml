@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "5"
+          max_post_count: "3"
           feed_list: "https://dev.to/feed/israelmitolu"
           comment_tag_name: DEV
       - uses: gautamkrishnar/blog-post-workflow@master
