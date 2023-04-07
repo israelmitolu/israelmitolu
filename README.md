@@ -107,11 +107,11 @@ VS Code                  10 hrs 55 mins      ███████████�
 #### Hashnode
 
 <!-- BLOG:START -->
+- [A Beginner&#39;s Guide to Portals in React: Everything You Need to Know](https://israelmitolu.hashnode.dev/a-beginners-guide-to-portals-in-react-everything-you-need-to-know)
 - [Augmented Analytics and How It Can Help](https://israelmitolu.hashnode.dev/augmented-analytics-and-how-it-can-help)
 - [Markdown for Technical Writers: Tips, Tricks, and Best Practices](https://israelmitolu.hashnode.dev/markdown-for-technical-writers-tips-tricks-and-best-practices)
 - [My 2022 Year in Review: To The Moon?](https://israelmitolu.hashnode.dev/my-2022-year-in-review-to-the-moon)
 - [Google Sheets API Tutorial: The Basics You Need to Get Going](https://israelmitolu.hashnode.dev/google-sheets-api-tutorial-the-basics-you-need-to-get-going)
-- [Learn how React Context API works by Building a Minimal Ecommerce Shopping App](https://israelmitolu.hashnode.dev/build-an-ecommerce-shopping-app-with-react-context-api)
 <!-- BLOG:END -->
 
 #### FreeCodeCamp
