@@ -126,9 +126,9 @@ VS Code                  10 hrs 55 mins      ███████████�
 #### DEV Community
 
 <!-- DEV:START -->
+- [A Beginner&#39;s Guide to Portals in React: Everything You Need to Know](https://dev.to/israelmitolu/a-beginners-guide-to-portals-in-react-everything-you-need-to-know-ifa)
 - [Markdown for Technical Writers: Tips, Tricks, and Best Practices](https://dev.to/israelmitolu/markdown-for-technical-writers-tips-tricks-and-best-practices-i9k)
 - [Learn how React Context API works by Building a Minimal Ecommerce Shopping App](https://dev.to/israelmitolu/learn-how-react-context-api-works-by-building-a-minimal-ecommerce-shopping-app-2479)
-- [Animating in React &lpar;The Many Ways!&rpar;](https://dev.to/israelmitolu/animating-in-react-the-many-ways-gm5)
 <!-- DEV:END -->
 
 <p align="left"> <a href="https://twitter.com/israelmitolu" target="blank"><img src="https://img.shields.io/twitter/follow/israelmitolu?logo=twitter&style=for-the-badge" alt="israelmitolu" /></a> </p>
