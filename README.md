@@ -103,11 +103,11 @@ VS Code                  3 hrs 31 mins       ███████████�
 #### Hashnode
 
 <!-- BLOG:START -->
+- [Creating Visual Interest: How to Use MouseMove Hover to Reveal Background Images](https://israelmitolu.hashnode.dev/creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images)
 - [The Top VS Code Extensions Every Frontend Developer Needs in Their Toolkit](https://israelmitolu.hashnode.dev/the-top-vs-code-extensions-every-frontend-developer-needs-in-their-toolkit)
 - [A Beginner&#39;s Guide to Portals in React: Everything You Need to Know](https://israelmitolu.hashnode.dev/a-beginners-guide-to-portals-in-react-everything-you-need-to-know)
 - [Augmented Analytics and How It Can Help](https://israelmitolu.hashnode.dev/augmented-analytics-and-how-it-can-help)
 - [Markdown for Technical Writers: Tips, Tricks, and Best Practices](https://israelmitolu.hashnode.dev/markdown-for-technical-writers-tips-tricks-and-best-practices)
-- [My 2022 Year in Review: To The Moon?](https://israelmitolu.hashnode.dev/my-2022-year-in-review-to-the-moon)
 <!-- BLOG:END -->
 
 #### FreeCodeCamp
