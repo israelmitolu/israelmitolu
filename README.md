@@ -1,3 +1,6 @@
+<a href="https://israelmitolu.netlify.app">
+<img src="https://github.com/israelmitolu/israelmitolu/assets/53873209/0e7be763-62f1-4c20-8e81-9ff69a14a15b" />
+</a>
 <h1 align="center">Konnichiwa, I'm Israel Mitolu 🚀</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=israelmitolu&label=Profile%20views&color=9FACE6&style=flat" alt="israelmitolu" /> </p>
