@@ -83,14 +83,15 @@ Sunday                   156 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     10 mins             ███████████████████████░░   91.79 % 
+JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/12/2023 01:17:48 UTC
+ Last Updated on 31/12/2023 01:25:30 UTC
 <!--END_SECTION:waka-->
 
 ## My Blogs
