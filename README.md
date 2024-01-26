@@ -110,11 +110,11 @@ VS Code                  8 hrs 18 mins       ███████████�
 #### Hashnode
 
 <!-- BLOG:START -->
+- [2023: The Rollercoaster Ride](https://israelmitolu.hashnode.dev/2023-the-rollercoaster-ride)
 - [Getting Started With Web Scraping in Playwright](https://israelmitolu.hashnode.dev/getting-started-with-web-scraping-in-playwright)
 - [Creating Visual Interest: How to Use MouseMove Hover to Reveal Background Images](https://israelmitolu.hashnode.dev/creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images)
 - [The Top VS Code Extensions Every Frontend Developer Needs in Their Toolkit](https://israelmitolu.hashnode.dev/the-top-vs-code-extensions-every-frontend-developer-needs-in-their-toolkit)
 - [A Beginner&#39;s Guide to Portals in React: Everything You Need to Know](https://israelmitolu.hashnode.dev/a-beginners-guide-to-portals-in-react-everything-you-need-to-know)
-- [Augmented Analytics and How It Can Help](https://israelmitolu.hashnode.dev/augmented-analytics-and-how-it-can-help)
 <!-- BLOG:END -->
 
 #### FreeCodeCamp
