@@ -11,7 +11,7 @@ I curate web experiences using HTML, CSS, Javascript, React JS and SASS.
 
 ### Facts about me ⚡
 
-- 🌱 I’m currently learning **Next.js and Typescript**
+- 🌱 I’m currently learning **ThreeJS**
 
 - 👯 I’m looking to collaborate on **projects, technical writing gigs**
 
