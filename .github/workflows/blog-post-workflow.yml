@@ -18,10 +18,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: "https://www.freecodecamp.org/news/author/israelmitolu/rss"
-          comment_tag_name: FCC
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "5"
           feed_list: "https://israelmitolu.hashnode.dev/rss.xml"
           comment_tag_name: BLOG
