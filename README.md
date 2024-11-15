@@ -44,17 +44,17 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C134%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C135%20hrs%2011%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 302.1 kB Used in GitHub's Storage 
  > 
-> 🏆 792 Contributions in the Year 2024
+> 🏆 794 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 69 Public Repositories 
+> 📜 70 Public Repositories 
  > 
 > 🔑 27 Private Repositories 
  > 
@@ -83,18 +83,16 @@ Sunday                   305 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 hrs 57 mins       ██████████████████░░░░░░░   73.62 % 
-TypeScript               2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JavaScript               5 hrs 21 mins       █████████████████░░░░░░░░   66.15 % 
+TypeScript               2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.70 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/11/2024 01:47:56 UTC
+ Last Updated on 15/11/2024 01:54:10 UTC
 <!--END_SECTION:waka-->
 
 ## My Blogs
