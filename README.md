@@ -50,6 +50,8 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
 
 > 📦 312.6 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 70 Public Repositories 
@@ -92,7 +94,7 @@ VS Code                  3 hrs 52 mins       ███████████�
 ```
 
 
- Last Updated on 09/12/2024 02:01:45 UTC
+ Last Updated on 10/12/2024 01:59:34 UTC
 <!--END_SECTION:waka-->
 
 ## My Blogs
