@@ -44,13 +44,13 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C280%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C281%20hrs%206%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 499.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 255 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -93,7 +93,7 @@ Cursor                   3 hrs 20 mins       ███████████�
 ```
 
 
- Last Updated on 01/04/2025 02:09:39 UTC
+ Last Updated on 02/04/2025 01:58:18 UTC
 <!--END_SECTION:waka-->
 
 ## My Blogs
