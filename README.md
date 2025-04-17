@@ -33,7 +33,7 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
 <a href="https://twitter.com/israelmitolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="israelmitolu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/israeloyetunji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israeloyetunji" height="30" width="40" /></a>
 <a href="https://instagram.com/devmitoluu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devmitoluu" height="30" width="40" /></a>
-<a href="https://hashnode.com/@israelmitolu" target="blank"><img align="center" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" alt="@israelmitolu" height="30" width="30" /></a>
+<a href="https://hashnode.com/@israelmitolu" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@israelmitolu hashnode" height="30" width="30" /></a>
 <a href="https://discord.gg/israelmitolu#9093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="israelmitolu#9093" height="30" width="40" /></a>
 </p>
 
