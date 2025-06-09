@@ -50,8 +50,6 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
 
 > 📦 817.4 kB Used in GitHub's Storage 
  > 
-> 🏆 677 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 76 Public Repositories 
@@ -94,7 +92,7 @@ Cursor                   15 hrs 50 mins      ███████████�
 ```
 
 
- Last Updated on 08/06/2025 02:22:17 UTC
+ Last Updated on 09/06/2025 02:14:08 UTC
 <!--END_SECTION:waka-->
 
 ## My Blogs
