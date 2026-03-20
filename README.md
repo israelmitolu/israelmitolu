@@ -44,7 +44,7 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C836%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C840%20hrs%2058%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -58,8 +58,43 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
  > 
 > 🔑 51 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 19/03/2026 03:01:46 UTC
+```text
+🌞 Morning                14340 commits       ████████████░░░░░░░░░░░░░   47.29 % 
+🌆 Daytime                8579 commits        ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+🌃 Evening                4887 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+🌙 Night                  2520 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   5177 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Tuesday                  5071 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Wednesday                5068 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Thursday                 6607 commits        █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+Friday                   5571 commits        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Saturday                 2001 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Sunday                   831 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               11 hrs 16 mins      ████████████████████████░   94.18 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+
+🔥 Editors: 
+Cursor                   11 hrs 58 mins      █████████████████████████   99.95 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+```
+
+
+ Last Updated on 20/03/2026 02:52:43 UTC
 <!--END_SECTION:waka-->
 
 ## My Blogs
