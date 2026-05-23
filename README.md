@@ -48,7 +48,7 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
 
 > 📦 2.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,012 Contributions in the Year 2026
+> 🏆 1,027 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -56,42 +56,8 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
  > 
 > 🔑 51 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                19149 commits       ██████████░░░░░░░░░░░░░░░   38.43 % 
-🌆 Daytime                13469 commits       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-🌃 Evening                14342 commits       ███████░░░░░░░░░░░░░░░░░░   28.78 % 
-🌙 Night                  2868 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   8394 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Tuesday                  8479 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Wednesday                8786 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Thursday                 11437 commits       ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-Friday                   8990 commits        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Saturday                 2887 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Sunday                   855 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               6 hrs 9 mins        █████████████████████░░░░   82.26 % 
-JavaScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-
-🔥 Editors: 
-Cursor                   7 hrs 29 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/05/2026 04:37:30 UTC
+ Last Updated on 23/05/2026 04:10:48 UTC
 <!--END_SECTION:waka-->
 
 ## My Blogs
