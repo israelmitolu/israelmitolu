@@ -44,11 +44,13 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C980%20hrs%2047%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 2.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,035 Contributions in the Year 2026
+> 🏆 1,037 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -56,8 +58,44 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
  > 
 > 🔑 51 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 29/05/2026 04:35:50 UTC
+```text
+🌞 Morning                19888 commits       █████████░░░░░░░░░░░░░░░░   36.31 % 
+🌆 Daytime                14519 commits       ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+🌃 Evening                17448 commits       ████████░░░░░░░░░░░░░░░░░   31.85 % 
+🌙 Night                  2920 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   9165 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Tuesday                  9341 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Wednesday                9879 commits        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Thursday                 12494 commits       ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+Friday                   9985 commits        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Saturday                 3056 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Sunday                   855 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               3 hrs 51 mins       ██████████████████████░░░   87.38 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+
+🔥 Editors: 
+Cursor                   3 hrs 23 mins       ███████████████████░░░░░░   76.60 % 
+VS Code                  1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+```
+
+
+ Last Updated on 30/05/2026 04:19:45 UTC
 <!--END_SECTION:waka-->
 
 ## My Blogs
