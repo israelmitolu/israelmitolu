@@ -58,8 +58,43 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
  > 
 > 🔑 51 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 15/06/2026 05:28:45 UTC
+```text
+🌞 Morning                21925 commits       █████████░░░░░░░░░░░░░░░░   36.36 % 
+🌆 Daytime                15917 commits       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+🌃 Evening                19316 commits       ████████░░░░░░░░░░░░░░░░░   32.03 % 
+🌙 Night                  3139 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   10152 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Tuesday                  10253 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Wednesday                11005 commits       █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Thursday                 13696 commits       ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+Friday                   11008 commits       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Saturday                 3264 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Sunday                   919 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               7 hrs 4 mins        ███████████████████░░░░░░   74.73 % 
+CSS                      53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+JavaScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 27 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/06/2026 05:33:30 UTC
 <!--END_SECTION:waka-->
 
 ## My Blogs
