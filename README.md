@@ -110,11 +110,11 @@ Cursor                   11 hrs 19 mins      ███████████�
 #### Hashnode
 
 <!-- BLOG:START -->
-- [2024: Beyond Grateful](https://israelmitolu.hashnode.dev/2024-beyond-grateful)
-- [2023: The Rollercoaster Ride](https://israelmitolu.hashnode.dev/2023-the-rollercoaster-ride)
-- [Getting Started With Web Scraping in Playwright](https://israelmitolu.hashnode.dev/getting-started-with-web-scraping-in-playwright)
-- [Creating Visual Interest: How to Use MouseMove Hover to Reveal Background Images](https://israelmitolu.hashnode.dev/creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images)
-- [The Top VS Code Extensions Every Frontend Developer Needs in Their Toolkit](https://israelmitolu.hashnode.dev/the-top-vs-code-extensions-every-frontend-developer-needs-in-their-toolkit)
+- [2024: Beyond Grateful](https://blog.mitolu.dev/2024-beyond-grateful)
+- [2023: The Rollercoaster Ride](https://blog.mitolu.dev/2023-the-rollercoaster-ride)
+- [Getting Started With Web Scraping in Playwright](https://blog.mitolu.dev/getting-started-with-web-scraping-in-playwright)
+- [Creating Visual Interest: How to Use MouseMove Hover to Reveal Background Images](https://blog.mitolu.dev/creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images)
+- [The Top VS Code Extensions Every Frontend Developer Needs in Their Toolkit](https://blog.mitolu.dev/the-top-vs-code-extensions-every-frontend-developer-needs-in-their-toolkit)
 <!-- BLOG:END -->
 
 #### FreeCodeCamp
