@@ -48,7 +48,7 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
 
 > 📦 2.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,410 Contributions in the Year 2026
+> 🏆 1,443 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -56,43 +56,8 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
  > 
 > 🔑 51 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                24241 commits       █████████░░░░░░░░░░░░░░░░   37.05 % 
-🌆 Daytime                17286 commits       ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-🌃 Evening                20491 commits       ████████░░░░░░░░░░░░░░░░░   31.32 % 
-🌙 Night                  3405 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   11124 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Tuesday                  11085 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Wednesday                11967 commits       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Thursday                 14818 commits       ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-Friday                   11947 commits       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Saturday                 3500 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Sunday                   982 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               4 hrs 59 mins       ██████████████████░░░░░░░   71.41 % 
-JavaScript               1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Text                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Image (svg)              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Image (png)              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-
-🔥 Editors: 
-Cursor                   6 hrs 59 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 24/07/2026 03:45:38 UTC
+ Last Updated on 25/07/2026 03:48:10 UTC
 <!--END_SECTION:waka-->
 
 ## My Blogs
