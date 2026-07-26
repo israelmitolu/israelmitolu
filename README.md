@@ -44,6 +44,8 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C066%20hrs%204%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 2.4 MB Used in GitHub's Storage 
@@ -56,8 +58,43 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
  > 
 > 🔑 51 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 25/07/2026 03:48:10 UTC
+```text
+🌞 Morning                24344 commits       █████████░░░░░░░░░░░░░░░░   36.89 % 
+🌆 Daytime                17379 commits       ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+🌃 Evening                20854 commits       ████████░░░░░░░░░░░░░░░░░   31.60 % 
+🌙 Night                  3415 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   11203 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Tuesday                  11175 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Wednesday                12111 commits       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Thursday                 14933 commits       ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+Friday                   12055 commits       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Saturday                 3533 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Sunday                   982 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               6 hrs 2 mins        ███████████████████░░░░░░   74.62 % 
+Text                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+JavaScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+
+🔥 Editors: 
+Cursor                   8 hrs 6 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 26/07/2026 03:59:44 UTC
 <!--END_SECTION:waka-->
 
 ## My Blogs
