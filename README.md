@@ -44,11 +44,15 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C013%20hrs%2029%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-194%20hrs%2027%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 2.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,444 Contributions in the Year 2026
+> 🏆 1,448 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -59,21 +63,21 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                24369 commits       █████████░░░░░░░░░░░░░░░░   36.89 % 
-🌆 Daytime                17384 commits       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-🌃 Evening                20890 commits       ████████░░░░░░░░░░░░░░░░░   31.62 % 
-🌙 Night                  3415 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+🌞 Morning                24787 commits       █████████░░░░░░░░░░░░░░░░   37.08 % 
+🌆 Daytime                17613 commits       ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+🌃 Evening                20982 commits       ████████░░░░░░░░░░░░░░░░░   31.39 % 
+🌙 Night                  3462 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   11218 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Tuesday                  11183 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Wednesday                12119 commits       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Thursday                 14944 commits       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Friday                   12077 commits       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Saturday                 3535 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Sunday                   982 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Monday                   11381 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Tuesday                  11314 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Wednesday                12246 commits       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Thursday                 15120 commits       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+Friday                   12226 commits       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Saturday                 3563 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Sunday                   994 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 
@@ -81,42 +85,42 @@ Sunday                   982 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 59 mins       ██████████████████░░░░░░░   70.36 % 
-JavaScript               1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+TypeScript               5 hrs 12 mins       ██████████████████░░░░░░░   71.19 % 
+JavaScript               1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 6 mins        █████████████████████████   100.00 % 
+Cursor                   7 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 52 mins (96.69%)
+⏱ AI Coding Time: 7 hrs 5 mins (96.79%)
 
-✍️ 2,310 lines written by AI, 3 lines written by hand (99.87% AI-written)
+✍️ 1,681 lines written by AI, 4 lines written by hand (99.76% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 94 AI Prompts
+🧠 22 AI Sessions, 94 AI Prompts
 
-Composer                 2,431 lines         ██████████████████░░░░░░░   73.47 % 
-Grok                     718 lines           █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-Sonnet                   160 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Composer                 1,692 lines         ████████████████░░░░░░░░░   65.84 % 
+Grok                     718 lines           ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+Sonnet                   160 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📝 Concise Prompter — average 424 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.13% of changed lines were hand-edited
+🤖 AI-Driven — 99.76% of written lines came from AI
+📝 Concise Prompter — average 415 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 03:44:10 UTC
+ Last Updated on 30/07/2026 03:13:55 UTC
 <!--END_SECTION:waka-->
 
 ## My Blogs
