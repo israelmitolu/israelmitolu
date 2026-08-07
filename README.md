@@ -44,10 +44,6 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C019%20hrs%2055%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-201%20hrs%206%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 2.4 MB Used in GitHub's Storage 
@@ -60,68 +56,8 @@ I curate web experiences using HTML, CSS, Javascript, TypeScript, React JS, Next
  > 
 > 🔑 51 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                26968 commits       █████████░░░░░░░░░░░░░░░░   37.77 % 
-🌆 Daytime                18785 commits       ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-🌃 Evening                21958 commits       ████████░░░░░░░░░░░░░░░░░   30.75 % 
-🌙 Night                  3687 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   12112 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Tuesday                  12123 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Wednesday                12984 commits       █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Thursday                 15897 commits       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Friday                   13063 commits       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Saturday                 4113 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Sunday                   1106 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               5 hrs 4 mins        ███████████████████░░░░░░   77.75 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-
-🔥 Editors: 
-Cursor                   6 hrs 31 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 30 mins (99.8%)
-
-✍️ 7,162 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 28 AI Sessions, 93 AI Prompts
-
-Composer                 2,604 lines         ████████████████░░░░░░░░░   62.04 % 
-Sonnet                   1,407 lines         ████████░░░░░░░░░░░░░░░░░   33.52 % 
-Opus                     173 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Grok                     13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 395 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
-```
-
-
- Last Updated on 06/08/2026 03:41:29 UTC
+ Last Updated on 07/08/2026 03:28:00 UTC
 <!--END_SECTION:waka-->
 
 ## My Blogs
